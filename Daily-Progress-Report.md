@@ -1,38 +1,47 @@
 # Daily Progress Report
 
-## Current Goals - Q42021
+## Current Goals - 2021Q4
 
 &nbsp;
 
-1. www.eight33digital.com
+### www.eight33digital.com
 
-   - [x] set up Kadence WordPress site
-   - [ ] set up Kadence Cloud
-   - [ ] create 5 mock sites on subdomains
-   - [ ] set up sales page for websites
-   - [ ] set up manual payments (PayPal / Paymaya / Cash)
-   - [ ] add bio page and link to portfolio
+---
 
-2. www.byronpantoja.com
-   - [x] Set up hosting on Vercel
-   - [x] Set up email
-   - [ ] Set up NextJS / Sanity portfolio site
-     - [ ] Projects Page
-     - [ ] Journal (blog)
-     - [ ] Photography
-     - [ ] Design
-     - [ ] Coffee
-   - [ ] Set up relationship between portfolio and blog
-   - [ ] Add Portfolio Projects as you start them (document progress in blog):
-     - [ ] Create + add Twitter Clone App (Flutter / Firebase)
-     - [ ] Create + add Ticketing App (NodeJS / MongoDB / AWS)
-     - [ ] Create + add Different frontends connected to Sanity (Gatsby / Vue / Svelte)
-     - [ ] Create + add www.ooamanda.com (Gatsby / Headless WordPress)
-     - [ ] Add www.dalaga.ca / www.dalagabeauty.com (square)
-     - [ ] Add www.coffeeforpeace.com (Kadence WP / WooCommerce)
-     - [ ] Add www.eight33digital.com (Kadence WP / WooCommerce)
-     - [ ] Add www.notesflowershop.com / www.notesandflowers.online (Kadence WP / WooCommerce)
-     - [ ] Add www.franicatua.com (Kadence WP / WooCommerce)
+- [x] set up Kadence WordPress site
+- [ ] set up Kadence Cloud
+- [ ] create 5 mock sites on subdomains
+- [ ] set up sales page for websites
+- [ ] set up manual payments (PayPal / Paymaya / Cash)
+- [ ] add bio page and link to portfolio
+
+&nbsp;
+
+### www.byronpantoja.com
+
+---
+
+- [x] Set up hosting on Vercel
+- [x] Set up email
+- [ ] Set up NextJS / Sanity portfolio site
+  - [ ] Projects Page
+  - [ ] Journal (blog)
+  - [ ] Photography
+  - [ ] Design
+  - [ ] Coffee
+- [ ] Set up relationship between portfolio and blog
+- [ ] Add Portfolio Projects as you start them (document progress in blog):
+      &nbsp;
+
+  - [ ] Create + add Twitter Clone App (Flutter / Firebase)
+  - [ ] Create + add Ticketing App (NodeJS / MongoDB / AWS)
+  - [ ] Create + add Different frontends connected to Sanity (Gatsby / Vue / Svelte)
+  - [ ] Create + add www.ooamanda.com (Gatsby / Headless WordPress)
+  - [ ] Add www.dalaga.ca / www.dalagabeauty.com (square)
+  - [ ] Add www.coffeeforpeace.com (Kadence WP / WooCommerce)
+  - [ ] Add www.eight33digital.com (Kadence WP / WooCommerce)
+  - [ ] Add www.notesflowershop.com / www.notesandflowers.online (Kadence WP / WooCommerce)
+  - [ ] Add www.franicatua.com (Kadence WP / WooCommerce)
 
 &nbsp;
 
@@ -50,8 +59,8 @@
 
 #### CHALLENGES - 11/22
 
-- [ ] Kadence Cloud - Set Up
-- [ ] Learning automation
+- Kadence Cloud - Set Up
+- Learning automation
 
 #### UNEXPECTED CHALLENGES - 11/22
 
@@ -83,7 +92,7 @@
 
 - [x] Registering domain names
 - [x] Testing configurations
-- [ ] Setting up Kadence Cloud on eight33digital.com
+- [ ] Setting up Kadence Cloud
 
 #### CHALLENGES - 11/23
 
@@ -99,7 +108,7 @@
 
 - Email set up was easy. Realized it didn't work yesterday because I tried to do it on a subdomain while not changing the name servers of the parent
 - Bought extra domains and added those projects to my to do list
-- create subdomain cloud.eight33digital.com
+- create subdomain for Kadence Cloud
 
 #### BLOCKERS: UNSOLVED CHALLENGES + PLAN TO SOLVE - 11/23
 
@@ -113,10 +122,10 @@
 
 ---
 
-#### TODAY I'M WORKING ON
+#### TODOs - 11/24
 
 - [ ] Watch Git/Github tutorial
-- [ ] Setting up Kadence Cloud on cloud.eight33digital.com
+- [ ] Setting up Kadence Cloud on sub domain
 - [ ] Begin working on mock Kadence WP sites:
   1. [ ] Site for Photographer
   2. [ ] Site for Cafe Bakery
@@ -124,19 +133,20 @@
   4. [ ] Site for Lawyers
   5. [ ] Site for Freelancer
 
-#### CHALLENGES I'M EXPECTING
+#### CHALLENGES - 11/24
 
 - Design Decisions for mock sites
 
-#### UNEXPECTED CHALLENGES
+#### UNEXPECTED CHALLENGES - 11/24
 
-- none yet
+- spending a lot of time playing with git/github/gitkraken
+- messing with MDX formatting and set up
 
 #### STEPS TAKEN TO SOLVE CHALLENGES
 
 - null
 
-#### BLOCKERS: UNSOLVED CHALLENGES
+#### BLOCKERS: UNSOLVED CHALLENGES + PLAN TO SOLVE - 11/24
 
 - null
 
