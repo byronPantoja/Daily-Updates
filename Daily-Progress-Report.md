@@ -153,3 +153,106 @@
 &nbsp;
 
 ---
+
+### THURSDAY - 11/25/2021
+
+---
+
+#### TODOs - 11/25
+
+- Building my portfolio / blog / online presence
+  - [x] Watch Git/Github tutorial
+  - [x] Setting up Kadence Cloud on sub domain
+
+##### On Hold
+
+> Putting the mock sites on hold since they're all so close to my heart. Like past lives of sorts. Once a photographer, no time to learn to bake, I suck at cutting hair, failed Philo trying to become a lawyer, and I so far I've spent more money on learning and buying resources than earning as a freelancer. I'm putting waaay to much work into a "mock site" becuase its kinda like it is mine
+>
+> - [x] Begin working on mock Kadence WP sites:
+>   - [ ] Site for Photographer (photographer833)
+>     - created sub-domain
+>     - installed blueprint (wp/kadence/plugins...)
+>     - began designing it figma
+>   - [ ] Site for Cafe Bakery (cafe833)
+>     - created sub-domain
+>     - installed blueprint (wp/kadence/plugins...)
+>   - [ ] Site for Barber
+>   - [ ] Site for Lawyers
+>   - [ ] Site for Freelancer
+
+&nbsp;
+
+##### New Priority
+
+> Better use of our limited time. Will work on my wife's website because if I over think something, it might as well earn income!
+
+- Create my wife's hand poked tatoo booking site:
+  - [ ] install wp on her domain
+  - [ ] install blueprint (wp/kadence/plugins...)
+    - [ ] add booking salon booking plugin
+    - [ ] add pic time plugin
+  - [ ] Create brand kit on our Canva account
+    - [ ] vectorize her logo and upload
+    - [ ] upload custom fonts to WP
+      - [ ] decide on back up fonts (web)
+    - [ ] Prepare simplified DO-Brief
+      - [ ] Why are we building this site?
+      - [ ] Who do we need to influence?
+      - [ ] What do we need them to do as a result of our comms?
+      - [ ] How will we achieve this?
+      - [ ] What do we need to convey?
+        - [ ] What do they **need** to know/feel?
+        - [ ] Why would they care?
+      - [ ] How will we measure success?
+        - Bookings through site vs IG vs FB
+        - Automated sales per week
+    - [ ] Prepare Copy
+      - [ ] Bio - Story
+      - [ ] Health Protocol / Guidelines
+      - [ ] Product / Services info
+      - [ ] Booking Details
+      - [ ] Contact / Location info
+      - [ ] Tagline / Social
+  - [ ] Review Photos (edit/crop/optimize)
+    - [ ] Collect all Flash Designs
+    - [ ] Collect all photos of past clients
+    - [ ] Schedule Photoshoot (mock session + lighting)
+      - [ ] prepare an over all mood board only
+      - [ ] prepare shot list
+  - [x] List Pages Needed
+    - [ ] Homepage
+    - [ ] Gallery Page
+    - [ ] Blog
+    - [ ] Booking Page
+    - [ ] Shop (aftercare + jewelry)
+    - and all those compliance / legal / etc...
+  - [ ] Development
+    - [ ] Draw a quick diagram of services
+      - [ ] review workflow
+      - [ ] build mvp and test
+    - [ ] Design Pages - Figma
+      - [ ] Review flow
+    - [ ] Prepare Assets and upload to server
+    - [ ] Begin "Developing" - click click click lol
+
+#### CHALLENGES - 11/25
+
+- Iterating the DO-bried and writing collab
+
+#### UNEXPECTED CHALLENGES - 11/25
+
+- Learning to use Facebook Business/ Facebook Ads / Facebook Commerce / META WTF + Google Merchant / Google Tags(?) / Google Ads + SQUARE / Weebly (my current income stream, helping sister with her salons in Canada)
+
+#### STEPS TAKEN TO SOLVE CHALLENGE - 11/25
+
+- Got the PIXEL
+- Got the Merchant ID
+- Verified Websites
+
+#### BLOCKERS: UNSOLVED CHALLENGES + PLAN TO SOLVE - 11/25
+
+- Need to learn google's services so I can add products to the google tag thing.
+
+&nbsp;
+
+---
