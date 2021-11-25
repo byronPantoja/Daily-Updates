@@ -241,17 +241,19 @@
 
 #### UNEXPECTED CHALLENGES - 11/25
 
-- Learning to use Facebook Business/ Facebook Ads / Facebook Commerce / META WTF + Google Merchant / Google Tags(?) / Google Ads + SQUARE / Weebly (my current income stream, helping sister with her salons in Canada)
+- Learning to merge from the CLI to github. lol spent 2hrs then gave up and clicked the button. My mistake was not pulling origin. Will try after this update
+- Balancing work: need to learning to use Facebook Business/ Facebook Ads / Facebook Commerce / META WTF + Google Merchant / Google Tags(?) / Google Ads + SQUARE / Weebly (my current income stream, helping sister with her salons in Canada)
 
 #### STEPS TAKEN TO SOLVE CHALLENGE - 11/25
 
 - Got the PIXEL
 - Got the Merchant ID
 - Verified Websites
+- Saw something on merchant where I need to upload products
 
 #### BLOCKERS: UNSOLVED CHALLENGES + PLAN TO SOLVE - 11/25
 
-- Need to learn google's services so I can add products to the google tag thing.
+- Need to learn google's services so I can add products to the google tag thing. It's a blocker because learning takes time and its a context switch from the web development project.
 
 &nbsp;
 
